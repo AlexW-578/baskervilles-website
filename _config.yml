@@ -1,11 +1,11 @@
 # Site settings
-title: Your Title Here
+title: Baskervilles
 description: > # this means to ignore newlines until "baseurl:"
 repository: vvalchev/creative-theme-jekyll-new
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://baskervilles.alexw-578.co.uk" # the base hostname & protocol for your site
 author: Copyright &copy; 2019 - Start Bootstrap
-lang: en_US
+lang: en_GB
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
