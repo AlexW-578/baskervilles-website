@@ -1,10 +1,10 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  title: Baskervilles
+  text: > 
+    <div class="text-white-75 mb-5">Stove Servicing and Repairs - Firebrick Replacements and Fitting</div>
+    <div class="text-white-75 mb-5">Door Seal Replacement - Replacing Broken/Cracked Glass</div>
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,37 +14,30 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Hello, my name is Chris Baskerville. 
+    text: <div>I have been installing and maintaining woodburning and multi-fuel stoves in the North Devon area for the last 13 years and prior to that, had been installing 'up country' for a few years.</div><div>I have been a Hetas approved installer the entire time, keeping up to date with industry developments and taking refresher courses every few years.</div><div>I have recently made the decision to work for myself and am now able to offer a full range of Stove Servicing and Repairs.</div><div>Please do contact me for further information. I look forward to hearing from you.</div>
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Contact Me
+        url: '#contacts'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Our Services
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: bi-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
+      - title: Stove Servicing and Repairs
+        text: Our Stove Servicing and Repairs service is dedicated to ensuring your stove operates safely and efficiently throughout the colder months.
+        # icon: bi-broken-glass text-info
+      - title: Firebrick Replacements and Fitting
+        text: Our Firebrick Replacements and Fitting service is designed to maintain the durability and efficiency of your wood burning stove. Over time, firebricks can crack or degrade due to the intense heat, reducing the stove's performance and potentially leading to further damage.
+        # icon: bi-rocket-takeoff
+      - title: Door Seal Replacement
+        text: Our Door Seal Replacement service ensures your wood burning stove operates efficiently and safely by maintaining an airtight seal. Over time, the door seal can wear out or become damaged, leading to heat loss, decreased efficiency, and increased fuel consumption.
+        # icon: bi-activity
+      - title: Replacing Broken/Cracked Glass
+        text: Our Broken/Cracked Glass Replacement service is designed to restore the safety and functionality of your wood burning stove.
+        # icon: bi-heart-fill
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -79,64 +72,64 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
 
   - type: members.html
     section_id: members
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
+      - title: Chris Baskerville
         text: Singer and Songwriter
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      # - title: Gary D. Stevens
+      #   text: Bass guitar.
+      #   image: assets/img/members/person2.jpg
+      #   url: '#'
+      # - title: Devon J. Fletcher
+      #   text: Lead guitar.
+      #   image: assets/img/members/person3.jpg
+      #   url: '#'
+      # - title: Todd E. Anderson
+      #   text: Drums, percussion.
+      #   image: assets/img/members/person5.jpg
+      #   url: '#'
+      # - title: Daniel T. Riley
+      #   text: Musician, songwriter, producer.
+      #   image: assets/img/members/person6.jpg
+      #   url: '#'
+      # - title: Ella P. Walter
+      #   text: PR.
+      #   image: assets/img/members/person7.jpg
+      #   url: '#'
 
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+  # - type: timeline.html
+  #   section_id: timeline
+  #   title: Major Achievements!
+  #   background_style: bg-dark text-primary
+  #   last_image: assets/img/timeline-end.png
+  #   actions:
+  #     - image: assets/img/portfolio/thumbnails/1.jpg
+  #       title: >+
+  #         2017-2018
+  #         **Humble Beginnings**
+  #       text: >-
+  #         We begun with small group of people willing to work hard and make our
+  #         teaching skills worth , in front of all others!
+  #     - image: assets/img/portfolio/thumbnails/2.jpg
+  #       title: >+
+  #         November 2019
+  #         An Coaching started
+  #       text: >-
+  #         We started to gather like minded people and started our stategies
+  #         and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
